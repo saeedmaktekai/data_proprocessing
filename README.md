@@ -1,6 +1,10 @@
 
 **Project Title**
 A concise description of what this project does and who it's for. This could be a single sentence or a short paragraph.
+*need to do*
+1 you have to add data folder in the repo and then put html within that folder 
+2 change the path in the folder so that you can use it 
+3 create .env folder and use can also use copy .env file to have an idea how to do what to do 
 
 
 ***Description***
