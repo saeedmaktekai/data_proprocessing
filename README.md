@@ -1,7 +1,7 @@
-Project Title
+**Project Title**
 A concise description of what this project does and who it's for. This could be a single sentence or a short paragraph.
 
-Description
+***Description***
 This repository contains Python scripts for preprocessing HTML data using the Unstructured API and various utility functions to manage environment variables and file uploads. The main components include:
 
 preprocessing.py: This script partitions HTML content into structured data using the Unstructured API, converts these elements into JSON format, and prints the output.
